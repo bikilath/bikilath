@@ -1,8 +1,8 @@
 # Hi, I'm Bikila Tefera Hunde
 
-**Cloud engineering · Security & compliance · Automation**
+**Cloud Devops and Data engineering · Security & compliance · Automation**
 
-I'm based in Kraków, Poland and work as a Technical Support Engineer in Security & Compliance at Microsoft. My background spans Azure infrastructure, Kubernetes operations, identity and access controls, and automation.
+I'm based in Kraków, Poland and work as a Technical Support Engineer at Microsoft. My background spans Azure infrastructure, Kubernetes operations, identity and access controls, and automation.
 
 I enjoy investigating complex technical problems and building tools that make cloud operations more reliable and repeatable.
 
